@@ -1,0 +1,55 @@
+[ghostparty]
+PlayerJoin = [name][playername][/name] has joined the online party!
+PlayerLeave = [name][playername][/name] has left the online party...
+EnterChapter = [name][playername][/name] entered [hint][actname][/hint]
+TimePieceGet = [name][playername][/name] collected the [icon:TimePiece] for [hint][actname][/hint], congratulations!
+PlayerConnectionFailed = Unable to connect to [name][playername][/name]. Check your router's NAT settings.
+PlayerPaused = Paused
+
+[lobby]
+OnlinePrompt = Online Functionality
+LobbyPrompt = Party Name
+OnlineInfo = This will allow you to see and interact with other players, including friends and random visitors.
+PublicInfo = If entered, you will only see other players who are in this party.[br]If blank, you'll only see occasional random guest visitors.[br]Random guest visitors will not be able to affect your game in any way.
+
+Tutorial0 = Welcome to [wave][hint]Online Party[/hint][/wave]! Collapse dimensions together and see your friends!
+Tutorial1 = Turn it on to journey alongside players from other worlds!
+Tutorial2 = Or enter a party name to just play with your friends!
+
+OpenConv0 = Want to change your [wave][hint]Online Party[/hint][/wave] settings?
+
+[joinact]
+RequestPlay = [name][playername][/name] wants to play [hint][actname][/hint]
+JoinPrompt = Hold to join
+WaitingToStart = Waiting for other players...
+
+[scoreboard]
+NoConnect = Unable to connect
+Connecting = Connecting...
+MapHub = In Spaceship
+MapTitle = On Titlescreen
+MapGeneric = In another act
+MapSpecific = In [actname]
+MapJoin = Heading into [actname]
+HiddenPlayer1 = You
+HiddenPlayer2 = Also You
+Scoreboard = Scoreboard
+SpectatorMode = Spectate
+Scoreboard_Continue = Continue
+
+[levelobjects]
+VaultCode = [name][playername][/name] collected a golden vault code!
+Faucet = [name][playername][/name] closed a faucet!
+MurderClue = [name][playername][/name] is one clue closer to solving the murder!
+
+[emotes]
+PingName = Ping
+OverHereName = Over here!
+HiName = Hi!
+ByeName = Bye!
+WatchOutName = Watch out!
+NopeName = Nope!
+ThanksName = Thanks!
+BoopName = Boop!
+PeckName = Peck!
+SorryName = Sorry!

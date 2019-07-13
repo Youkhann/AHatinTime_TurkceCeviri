@@ -1,0 +1,17 @@
+[rainy_mafia]
+encounter0 = [shake]Oh no, aliens are coming for Mafia! I can see spaceship! [hint]Muddy gloop monsters[/hint] will arrive any minute![/shake]
+
+hit0 = What the... [scream]HUH?![/scream]
+hit1 = [shake]It's... [scream]IT'S SLIMY SPACE ALIEN![/scream][/shake]
+hit2 = [shake][scream]MAFIA SAW SPACESHIP! MAFIA KNEW ALL ALONG! MAFIA IS BEING INVADED BY ALIENS![/scream][/shake]
+hit3 = [shake][scream]AHHHH!![/scream][/shake]
+
+HeartAttack0 = Huff... huff...
+HeartAttack1 = Leave Mafia alone, you monster! Here, if Mafia give you [icon:timepiece][timepiece]this[/timepiece], will you go away?
+
+[Spaceship]
+ModLevels0 = [shake][scream]AHHHH-[/scream][/shake] oh wait, it is you! Tiny baby alien! You have returned!
+ModLevels1 = I can stay in alien spaceship, yes? I can look at private mail, yes? Learn how aliens think? Please!
+ModLevels2 = There is so much mail, from far away places! When Mafia read mail, it almost like Mafia is there!
+ModLevels3 = Here, come and read mail with Mafia! Together we can pretend to be in far away places.
+ModLevels4 = Welcome back, tiny baby alien! Come and browse mail with Mafia!

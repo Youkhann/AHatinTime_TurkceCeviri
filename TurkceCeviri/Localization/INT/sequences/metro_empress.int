@@ -1,0 +1,117 @@
+[finale]
+empress_finale0 = One million dollars to the cat that brings me our little thief.
+empress_finale1 = Run if you want. You won't get far.
+empress_finale2 = Catch her. Make it quick.
+empress_finale3 = Do I need to replace all of you? Can you not catch a child?
+empress_finale4 = The bounty is TWO million. Bring me that little brat.
+empress_finale5 = Keep running child. You're not home yet.
+
+empress_finale6 = Well well well. Look what the cat dragged in.
+empress_finale7 = Step inside, won't you?
+empress_finale8 = Did you think you'd get out? Did you think you were smart, little girl?
+empress_finale9 = I thought I could trust you. It's so rare I make a bad investment.
+empress_finale10 = That you'd be so greedy as to steal from me - so bold, for someone so small.
+empress_finale11 = All my fault, really. I should have a better eye for who I elevate.
+empress_finale12 = You could have been someone important here one day. But you've disappointed me - 
+empress_finale13 = - and it's time I cash out.
+empress_finale14 = Oh! Officers! 
+empress_finale15 = How... convenient. I was just about to get out.
+empress_finale16 = [small]They're a lot harder to get rid of than you are.[/small]
+empress_finale17 = We'll meet again, brat.
+
+
+[timepiece1]
+empress_tp1_0 = There's more of these, I'm sure. You seem... talented at finding them.
+empress_tp1_1 = I pay you, and you bring me more. It's a simple arrangement.
+empress_tp1_2 = Start looking by the Yellow Overpass. I'm sure you can find your way.
+empress_tp1_3 = Now be on your way... and don't come back empty-handed.
+
+[timepiece2]
+empress_tp2_0 = You're back? And you have another [timepiece][icon:timepiece]Time Piece[/timepiece] for me - good.
+empress_tp2_1 = Our little arrangement is working out well. See that it continues to.
+empress_tp2_2 = And since it's going so well, you shouldn't have any trouble buying some [hint]metro passes[/hint].
+empress_tp2_3 = You won't get around much without them, after all.
+
+[timepiece3]
+empress_tp3_0 = Interesting. You're more useful than I thought.
+empress_tp3_1 = Keep this up, child, and I'll make you rich. I'm very... invested in loyalty.
+empress_tp3_2 = Now, be a worthwhile little investment and find me another. Even if you have to look in the [hint]manhole tunnels[/hint].
+empress_tp3_3 = My cats and I use them for... our work. Tread carefully.
+
+[timepiece4]
+empress_tp4_0 = Well done. My organization can always use more people like you.
+empress_tp4_1 = There's a place for you here, provided you don't... disappoint me.
+empress_tp4_2 = Still, I hear my little collection isn't quite complete. So, get back to it.
+empress_tp4_3 = And be thorough. Leave no stone unturned, you hear?
+
+[timepiece5]
+empress_tp5_0 = A fifth? You continue to surprise me.
+empress_tp5_1 = Are you enjoying your stay in my Metro? There's people from all over here.
+empress_tp5_2 = It's the perfect place for a little lying. A little cheating... a little stealing.
+empress_tp5_3 = You've almost earned yourself a real cut of the action here. Almost.
+
+[timepiece6]
+empress_tp6_0 = Another? There mustn't be many left.
+empress_tp6_1 = There's an operation coming up that I stand to make a killing on. A transport gig.
+empress_tp6_2 = Bring me one more, and there won't be a cat in this city with more scratch than me.
+
+[timepiece7]
+empress_tp7_0 = Seven. It's a lucky number to some, you know.
+empress_tp7_1 = Do you have any aspirations, child? Things you want to do when you're older?
+empress_tp7_2 = Keep being useful, and there won't be much outside your reach. 
+
+[timepiece8]
+empress_tp8_0 = An eighth? Hm... how fitting.
+empress_tp8_1 = To you, it means more money. I told you I would make you rich, and I wouldn't lie to my own.
+empress_tp8_2 = Now, for me... well, that's MY business. I will call on you if I need your skills again, child.
+empress_tp8_3 = For now, enjoy your earnings. I have places to be, and preparations to make.
+
+[timepiece9]
+empress_tp9_0 = Nine. Well done.
+empress_tp9_1 = Each of these is worth more than most would earn in a lifetime.
+empress_tp9_2 = As for you... well, you're more than most. Here is your cut.
+empress_tp9_3 = Well? Back to work, then. 
+
+[directions]
+empress_dir_yellowR = Well? Start your search at the Yellow line, girl. 
+
+empress_dir_greenR = I've heard murmurings of something shining atop the Green Clean station. Go.
+
+empress_dir_blueR = Bluefin. The underground. Don't come back empty-handed.
+
+empress_dir_pinkR = I hope your tickets are in order, little one. One of my little treasures has been spotted over in Pink Paw.
+
+empress_dir_yellowM = Time to turn your search downwards, girl. Look for the manhole covers. Yellow Overpass.
+
+empress_dir_greenM = Take yourself to the Green line again. Another little treasure in the tunnels.
+
+empress_dir_pinkM = One more foray beneath the ground. The Pink line, this time.
+
+empress_dir_nothing = Hm? Are you lost, little girl? I'm afraid I don't have anything for you.
+
+empress_dir_blueM = I hope you're not claustrophobic. Bluefin again, but look for a manhole this time.
+
+empress_dir_pinkM2 = There's a second tunnel in Pink Paw. Search the place.
+
+[postfinale]
+empress_post_finale_0 = Walking right back into my claws. Bold.
+empress_post_finale_1 = Make no mistake, child. If these police officers weren't making a show of investigating things right now, you would not be leaving a second time. 
+empress_post_finale_2 = Thanks to your little stunt, the Chief wants to... renegotiate our arrangement. He thinks sending a few of his kittens down here will pressure me.
+empress_post_finale_3 = They won't find anything, of course. They're not that stupid. But it does mean I need to keep things orderly for a little while. No accidents happening to anyone, you know.
+empress_post_finale_4 = This'll all blow over soon. If you're smart, you'll run.
+
+[cutscenes]
+Intro0 = Thank you for bringing this to me.
+Intro1 = Who do you work for, no one?
+Intro2 = Well...
+Intro3 = I can't have you running around,
+Intro4 = interfering with my jewel business.
+Intro5 = So, you work for me now.
+Intro6 = Come to my store, we have business to discuss.
+
+Midpoint0 = Are you trying to play a trick on me?!
+Midpoint1 = Then why did I find your cat hair on it?
+Midpoint2 = Don't let that... be you.
+
+Finale0 = Catch her. Make it quick.
+Finale1 = Reward... is one million.

@@ -1,0 +1,68 @@
+[internal]
+captainAttention0 = Attention... this is your Captain speaking.
+speaker0 = Is this thing turned on? Ahem...
+speaker1 = All passengers, please check in at the lobby desk! I'll be on board shortly...
+speaker2 = Attention, passengers. And 'crew'.
+speaker3 = The ship is now leaving. Please try not to fall off.
+speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
+
+captain0 = I'm busy, pup. This ship doesn't steer itself.
+captain1 = I said I'm busy, pup.
+captain2 = Don't you have anything better to do? 
+captain3 = They don't pay me enough for this...
+
+leftshard1 = ...What do you want, pup? One of the crew hurt themselves again?
+leftshard2 = What do I look like, a doctor? [hint]Kiss[/hint] it better yourself.
+
+[act2]
+captainAttention0 = Attention... this is your Captain speaking.
+captain0 = What's that, pup? [br]You want to help out?
+captain1 = Hmph. Sure. Maybe something will get done around this mess of a boat for once. It'd be a first.
+captain2 = Alright. You'll need to deliver drinks, some food, and a few other things. And do it quickly, pup.
+captain3 = Oh, and there are some other jobs that'll need doing. So pay attention. Are you ready to start?
+captain4 = Well, come back when you are. This ship isn't going to clean itself up.
+captain5 = Good. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
+captainFail0 = Just like the seals... that's no good. You just made more of a mess, pup. Try again. Or don't, whatever.
+captainDone0 = You can stop now, pup. Come back to Control, I guess.
+captainDone1 = Well... looks like you actually cleaned up more mess than you made, pup. That's more than most of the crew can manage.
+captainDone2 = Help yourself to something from the Lost and Found. Nobody ever comes back for that stuff anyway.
+
+yes = Heck yeah!
+no = Nooo!
+
+[docks]
+captain0 = Uh... you look a little young to be sailing alone, pup.
+captain1 = Whatever. Just don't get in anyone's way. The 'crew' do enough of that already.
+captain2 = See the walkway, pup? What a mess...
+captain3 = How is anyone supposed to get up that thing? 
+captain4 = They can't even make a straight walkway. Surprised the whole thing doesn't fall apart.
+
+[act3]
+captainbar0 = Do I not look busy to you, pup? Go play somewhere.
+captainbar1 = Let an old captain relax. The seals can handle things for a minute.
+captainbar2 = Hopefully, they've learned not to mess with [hint]the steering wheel[/hint] by now...
+
+loudspeaker0 = Hewwo! The captwain has a messa-
+loudspeaker1 = Hand me that microphone! [scream]Who's at the wheel?![/scream]
+loudspeaker2 = [scream]We're headed straight for an iceberg! [br]All hands on deck![/scream]
+
+start0 = It's all going down, pup. I never thought I'd see the day.
+start1 = Her maiden voyage, too. Won't take more than a few minutes for all of this to hit the sea floor, I think.
+start2 = Well, you might want to get to a lifeboat, pup. It'd be smart.
+
+loudspeaker3 = Don't wait up for me, pup. Get in a boat and scram.
+loudspeaker4 = This is my dang ship, and I'll go down with it.
+
+carried0 = Put me down, pup!
+carried1 = Let go of me! Leave me be, pup!
+carried2 = How are you so strong?!
+carried3 = Put. Me. Down!
+carried4 = Let me go down with the ship!
+carried5 = Just let me drown, pup!
+
+
+captain0 = *Sigh* Pup, why wouldn't you just let me go down with my ship? I can't drown, but at least I could pretend for a bit.
+captain1 = Hmph, although without me, this crew'll never be able to get the lifeboats to shore. Fine. Crew, let's go home.
+captain2 = Hopefully our insurance covers this...
+captain3 = Anyway, I can't give out refunds, but it looks like there's something shiny on that iceberg over there? Funny how our ship crashed right next to it.
+captain4 = It's all yours pup.

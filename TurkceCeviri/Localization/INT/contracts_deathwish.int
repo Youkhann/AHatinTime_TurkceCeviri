@@ -1,0 +1,363 @@
+[Info]
+Conditions_3Lives = You have 3 lives
+Conditions_3Checkpoints = You have 3 chances
+Conditions_NoHealth = No health pons
+Conditions_NoCheckpoints = No checkpoints
+Conditions_ClearLevel = You have to collect a Time Piece
+Conditions_EasyMode = Peace and Tranquility is enabled
+
+Contract_Clear = Clear!
+Contract_Unlocked = Unlocked
+Obj_Bonus = Bonus
+Obj_Complete = Complete
+Obj_Failed = Failed
+Best_Time = Best Time
+Best_Score = Best Score
+Lives_Remaining = Lives Remaining
+
+[Hat_SnatcherContract_DeathWish_Intro_100Pons]
+Title = Pon Fanatic
+Objective = Collect 20 Pons
+50Pons = Collect 50 Pons
+100Pons = Collect 100 Pons
+Tip0 = You know what [icon:money] [name]Pons[/name] are, right? Those little green things?[br]They're everywhere. Please tell me you know what [icon:money] [name]Pons[/name] are.
+
+[Hat_SnatcherContract_DeathWish_DifficultParade]
+Title = The Great Big Hootenanny
+Objective = Complete The Big Parade
+AllTokens = Don't let any DJ Grooves tokens expire
+NoHit = Don't get hit by the Express Band
+BigBand = It looks like you've gained quite a following
+Tip0 = These dumb owls will follow you anywhere. Maybe you can keep them busy by [name]running around in circles[/name].
+
+[Hat_SnatcherContract_DeathWish_TrainRushShortTime]
+Title = 10 Seconds Until Self-Destruct
+Objective = Escape Train Rush
+NoHat = No hat abilities, One-Hit Hero equipped
+Tokens = Collect all the Conductor tokens
+Condition = The Owl Express is way behind schedule
+Tip0 = When I say 10 seconds, I mean it! You better run real fast, kiddo!
+
+[Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
+Title = Security Breach
+Objective = Infiltrate Dead Bird Studio
+NoCaught = Complete without getting caught
+NoFees = Complete with less than 200,000 in fees
+NoFees_Easy = Complete with less than 600,000 in fees
+Condition = Security has been upped, significantly
+Tip0 = This will be your hardest task of all: [name]Not being a nuisance![/name]
+
+[Hat_SnatcherContract_DeathWish_HeatingUpHarder]
+Title = Beat the Heat
+Objective = Turn off all the lava faucets
+AvoidLava = Don't get too hot!
+MinWater = Don't cool down more than 2 times
+Condition = It's much hotter than usual, cool yourself off!
+Tip0 = Don't worry about doing every task on your contract at the same time. You can even [name]come back later[/name] and do them, I don't mind! Really![br][shake][scream]TAKE ALL THE TIME YOU NEED.[/scream][/shake]
+EasyTip = Take a dip after every faucet!
+
+[Hat_SnatcherContract_DeathWish_NoAPresses]
+Title = Zero Jumps
+Objective = Collect any Time Piece without jumping
+Condition = You jump, you die!
+Collect4 = Collect 4 Time Pieces without jumping
+TrainRush = Clear Train Rush without jumping
+Tip0 = With a light tap, your [icon:icehat] can be used to give you some extra height without having to actually jump. How convenient!
+
+[Hat_SnatcherContract_DeathWish_FastWindmill]
+Title = Wound-Up Windmill
+Objective = Reach the top of The Windmill
+OneHit = No hat abilities, One-Hit Hero equipped
+TimeLimit = Reach the end in 4 minutes
+TimeLimit_Easy = Reach the end in 10 minutes
+Condition = The Windmill is operating at "peak" performance
+Tip0 = Having trouble with speedy platforms? Try not jumping so high, you'll land sooner. Then try using the platform's [name]momentum[/name] to your advantage![br]Remember kid, [name]timing is everything[/name]!
+
+[Hat_SnatcherContract_DeathWish_SecretVault]
+Title = Secret Vault
+Objective = Open the Golden Vault
+Condition = The Vault Codes have been scattered
+Condition2 = The Vault only partially points to the codes
+
+[Hat_SnatcherContract_DeathWish_BossRush]
+Title = Boss Rush
+Objective = Down with the Mafia (and Everyone Else!)
+NoMiss = Don't miss any chance to hit
+OneHit = Win with One-Hit Hero equipped
+Condition = No healing between fights
+Tip0 = If you find a [icon:health] [name]Health Pon[/name] you don't need, don't grab it right away! You might need it later...
+
+[Hat_SnatcherContract_DeathWish_BossRushEX]
+Title = Seal the Deal
+Objective = Defeat your strongest foes
+Condition = Good luck!
+NoHats = Don't use any hat abilities
+FewHits = Don't let your health drop to 1 HP
+Tip0 = Don't forget to take breaks! Not moving for long periods of time is bad for your health!
+
+[Hat_SnatcherContract_DeathWish_PonFrenzy]
+Title = Collect-a-thon
+Objective = Simply collect 100 Pons
+NoBoxes = Don't break any crates or barrels
+FewPons = Don't pick up more than 200 Pons in total
+Condition = Collection progress drains over time
+Tip0 = Never stop collecting Pons, kiddo! Keep an eye out for boxes, barrels, bullies, and other things you can [name]crack open[/name] to get a lot at once!
+EasyTip = Break crates and barrels!
+
+[Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
+Title = Snatcher Coins in Mafia Town
+Objective = Find a Snatcher Coin in Mafia Town
+2Tokens = Find 2 Snatcher Coins
+3Tokens = Find all 3 Snatcher Coins
+Tip0 = If you have [icon:compassbadge], finding these should be like shooting fish in a barrel!
+
+[Hat_SnatcherContract_DeathWish_Tokens_Birds]
+Title = Snatcher Coins in Battle of the Birds
+Objective = Find a Snatcher Coin in Battle of the Birds
+2Tokens = Find 2 Snatcher Coins
+3Tokens = Find all 3 Snatcher Coins
+Tip0 = If you have [icon:compassbadge], finding these should be a piece of cake!
+
+[Hat_SnatcherContract_DeathWish_Tokens_Subcon]
+Title = Snatcher Coins in Subcon Forest
+Objective = Find a Snatcher Coin in Subcon Forest
+2Tokens = Find 2 Snatcher Coins
+3Tokens = Find all 3 Snatcher Coins
+Tip0 = If you have [icon:compassbadge], finding these should be as easy as falling off a log!
+
+[Hat_SnatcherContract_DeathWish_Tokens_Alps]
+Title = Snatcher Coins in Alpine Skyline
+Objective = Find a Snatcher Coin in Alpine Skyline
+2Tokens = Find 2 Snatcher Coins
+3Tokens = Find all 3 Snatcher Coins
+Tip0 = If you have [icon:compassbadge], finding these should be a breeze!
+
+[Hat_SnatcherContract_DeathWish_Tokens_Metro]
+Title = Snatcher Coins in Nyakuza Metro
+Objective = Find a Snatcher Coin in Nyakuza Metro
+2Tokens = Find 2 Snatcher Coins
+3Tokens = Find all 3 Snatcher Coins
+Tip0 = If you have [icon:compassbadge], finding these should be like taking catnip from a baby!
+
+[Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
+Title = She Speedran from Outer Space
+Objective = Clear 'She Came From Outer Space' in 1:50 or less
+Bonus1 = Clear in 1:35 or less
+Bonus2 = Clear in 1:20 or less
+Objective_Easy = Clear 'She Came From Outer Space' in 3:40 or less
+Bonus1_Easy = Clear in 3:10 or less
+Bonus2_Easy = Clear in 2:40 or less
+Tip0 = It sure would be nice if you could leave that weirdo with the goofy glasses behind, but [name]he has something you need[/name].
+
+[Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
+Title = Speedrun Well
+Objective = Clear 'Subcon Well' in 2:00 or less
+Bonus1 = Clear in 1:40 or less
+Bonus2 = Clear in 1:25 or less
+Objective_Easy = Clear 'Subcon Well' in 4:00 or less
+Bonus1_Easy = Clear in 3:20 or less
+Bonus2_Easy = Clear in 2:50 or less
+Tip0 = Look at all these platforms laid out nice and neat. It would be a shame if somebody [name]skipped[/name] all of them...
+
+[Hat_SnatcherContract_DeathWish_Speedrun_Illness]
+Title = The Illness Has Speedrun
+Objective = Clear 'The Illness Has Spread' in 7:00 or less
+Bonus1 = Clear in 6:30 or less
+Bonus2 = Clear in 6:00 or less
+Objective_Easy = Clear 'The Illness Has Spread' in 14:00 or less
+Bonus1_Easy = Clear in 13:00 or less
+Bonus2_Easy = Clear in 12:00 or less
+Tip0 = If you need to [name]get back to the start[/name] in a hurry, why don't you try [name]jumping off a cliff[/name]? No really! [wave]Try it![/wave]
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
+Title = Rift Collapse: Mafia of Cooks
+Objective = Escape the Mafia of Cooks Time Rift
+AllPons = Collect every Rift Pon
+AllPons_Easy = Collect all Rift Pons but 3
+Faster = Escape with 30 seconds to spare
+Faster_Easy = Escape with 15 seconds to spare
+Condition = The Time Rift has become unstable!
+Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
+Title = Rift Collapse: Dead Bird Studio
+Objective = Escape the Dead Bird Studio Time Rift
+AllPons = Collect every Rift Pon
+AllPons_Easy = Collect all Rift Pons but 3
+Faster = Escape with 30 seconds to spare
+Faster_Easy = Escape with 15 seconds to spare
+Condition = The Time Rift has become unstable!
+Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Subcon]
+Title = Rift Collapse: Sleepy Subcon
+Objective = Escape the Sleepy Subcon Time Rift
+AllPons = Collect every Rift Pon
+AllPons_Easy = Collect all Rift Pons but 3
+Faster = Escape with 30 seconds to spare
+Faster_Easy = Escape with 15 seconds to spare
+Condition = The Time Rift has become unstable!
+Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
+Title = Rift Collapse: Alpine Skyline
+Objective = Escape the Alpine Skyline Time Rift
+AllPons = Collect every Rift Pon
+AllPons_Easy = Collect all Rift Pons but 3
+Faster = Escape with 30 seconds to spare
+Faster_Easy = Escape with 15 seconds to spare
+Condition = The Time Rift has become unstable!
+Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Cruise]
+Title = Rift Collapse: Deep Sea
+Objective = Escape the Deep Sea Time Rift
+AllPons = Collect every Rift Pon
+AllPons_Easy = Collect all Rift Pons but 3
+Faster = Escape with 30 seconds to spare
+Faster_Easy = Escape with 15 seconds to spare
+Condition = The Time Rift has become unstable!
+Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+
+[Hat_SnatcherContract_DeathWish_NoAPresses_MafiaAlien]
+Title = Mafia's Jumps
+Objective = Complete 'She Came From Outer Space' in only 15 jumps
+Presses1 = Complete in 11 jumps
+Presses2 = Complete in 7 jumps
+Objective_Easy = Complete 'She Came From Outer Space' in only 24 jumps
+EasyPresses1 = Complete in 18 jumps
+EasyPresses2 = Complete in 14 jumps
+Tip0 = With a light tap, your [icon:icehat] can be used to climb up ledges without having to actually jump. Sounds useful!
+
+[Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
+Title = Quality Time with Snatcher
+Objective = Survive Snatcher for 2 minutes
+Medium = Survive for 4 minutes
+Long = Survive for 6 minutes
+Objective_Easy = Survive Snatcher for 1 minute
+Medium_Easy = Survive Snatcher for 2 minutes
+Long_Easy = Survive Snatcher for 3 minutes
+Condition = This time, no blue potions!
+Tip0 = Come on, kid! Lets just be pals! How about I don't throw any blue potions at you, and you don't hit me with your umbrella. Deal?
+
+[Hat_SnatcherContract_DeathWish_HardCastle]
+Title = The Mustache Gauntlet
+Objective = Defeat all the Bad Guys
+DontFry = Don't get burned
+MeleeOnly = Don't use any projectile weapons
+Tip0 = Make sure you [name]kill everyone[/name], kiddo! You don't want to reach the end just to find out you have to [name]start over[/name], do you?
+
+[Hat_SnatcherContract_DeathWish_NiceBirdhouse]
+Title = Bird Sanctuary
+Condition = Hurting birds is not allowed!
+Objective = Tiptoe through the Birdhouse
+TimeLimit = Reach the end in 65 seconds
+TimeLimit_Easy = Reach the end in 3 minutes
+NoKills = With One-Hit Hero equipped
+MafiaHunt = Defeat the 6 hidden Mafia
+Tip0 = Make sure you [name]keep the birds away[/name] from those explosive eggs, I don't want to see anyone getting hurt!
+
+[Hat_SnatcherContract_DeathWish_CameraTourist_1]
+Title = Camera Tourist
+Objective = Snap a picture of 8 different enemies
+GroupShot = Snap a single picture with 3 different enemies in it
+AllBosses = Snap a picture of every boss
+Tip0 = Make sure you get a picture of my good side! While I'm [name]killing you[/name], preferably.
+
+[Hat_SnatcherContract_DeathWish_MovingVault]
+Title = Vault Codes in the Wind
+Objective = Open the Golden Vault
+NoSlow = Don't slow the flow of time
+Kill = Find time to defeat 10 Mafia
+Kill_Easy = Find time to defeat one Mafia
+Condition = You only have 30 seconds to collect each Vault Code
+Tip0 = Take your time with this one, kid. Just relax and watch the Vault Codes flutter in the wind. It's very calming!
+
+[Hat_SnatcherContract_DeathWish_MafiaBossEX]
+Title = Encore! Encore!
+Objective = Defeat the Mafia Boss
+NoMiss = Don't miss your cue to attack
+NoHit = With One-Hit Hero equipped
+Condition = He's all charged up!
+Tip0 = This old fool looks like he's being a bit more careful with this new body, but he still has that nasty habit of stomping and shouting until he [name]turns blue in the face[/name].
+
+[Hat_SnatcherContract_DeathWish_BirdBossEX]
+Title = Killing Two Birds
+Objective = Defeat both Directors
+Fast = Win with more than 100 seconds left on the clock
+BestBird = Only attack one director until the very end
+Condition = This next project is a collaboration...
+Tip0 = There's a lot going on here, but don't let yourself get distracted![br]Remember kid: a bird in the hand is worth two in the bush!
+
+[Hat_SnatcherContract_DeathWish_SnatcherEX]
+Title = Breaching the Contract
+Objective = Defeat the Snatcher
+Condition = I'm even more handsome than usual!
+FewHits = Don't let your health drop to 1 HP
+NoUmbrella = Don't attack me! Only throw blue potions!
+Tip0 = Don't look for places to [name]land between the shockwaves[/name]. Actually, try to lie face down on the ground, that will make this [shake]MUCH EASIER.[/shake]
+
+[Hat_SnatcherContract_DeathWish_MuGirlEX]
+Title = No More Bad Guys
+Objective = Defeat Mustache Girl
+NoHat = Don't use any of your stupid hat abilities!
+Time = Don't spend more than 3 minutes in the Hyper Zone
+Condition = She stole a bunch of those weird Time Pieces!
+Tip0 = Don't go all gung-ho into this one like you usually do. Try staying alive, and learn how to [name]dodge her attacks[/name] first.
+
+[Hat_SnatcherContract_DeathWish_KillEverybody]
+Title = Snatcher's Hit List
+Objective = Kill 5 Mafia without getting punched
+NoBully = Kill 10 Alpine Pompous Crows without getting bullied
+KillEmAll = Kill every type of enemy
+Condition = They've got you all figured out!
+Tip0 = Make sure you [name]kill everybody[/name] on this list, alright? Some of them are hard to find. You might need to look in [name]different chapters[/name].
+
+[Hat_SnatcherContract_DeathWish_EndlessTasks]
+Title = Cruisin' for a Bruisin'
+Objective = Complete 40 tasks
+NoMiss = Complete 40 tasks without missing one
+More = Complete 70 tasks
+Objective_Easy = Complete 30 tasks
+Condition = There's no end in sight
+Tip0 = Take some time to [name]study the layout[/name] of the ship. There may be some routes you didn't even know about!
+
+[Hat_SnatcherContract_DeathWish_BackFromSpace]
+Title = So You're Back from Outer Space
+Objective = Reach the Time Piece
+Kills = Smash all the UFOs
+Speed = Reach the end in 65 seconds
+Speed_Easy = Reach the end in 3 minutes
+Condition = Mafia saw spaceship!!
+Tip0 = You won't get very far in this one unless you know how to [name]cancel your dive to climb a wall[/name], whatever that means. I'll let you figure it out.
+EasyTip = Try using your TimeStop hat!
+
+[Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
+Title = Community Rift: Rhythm Jump Studio
+ShortTitle = Rhythm Jump Studio
+Condition = Contributed by Lane 'FlameLFH' Haskins
+Objective = Complete the Time Rift
+AllPons = Collect every Rift Pon
+AllPages = Collect all the Storybook Pages
+Tip0 = This one's all you, kiddo. I'm a terrible dancer.[br]I don't have the legs for it.
+
+[Hat_SnatcherContract_DeathWish_CommunityRift_TwilightTravels]
+Title = Community Rift: Twilight Travels
+ShortTitle = Twilight Travels
+Condition = Contributed by Eric 'Jak' Ridge
+Objective = Complete the Time Rift
+AllPons = Collect every Rift Pon
+AllPages = Collect all the Storybook Pages
+Tip0 = Stop ringing those bells, kid. You're giving me a headache.
+
+[Hat_SnatcherContract_DeathWish_CommunityRift_MountainRift]
+Title = Community Rift: The Mountain Rift
+ShortTitle = The Mountain Rift
+Condition = Contributed by Devan 'Mr.Brawls' Miller
+Objective = Complete the Time Rift
+AllPons = Collect every Rift Pon
+AllPages = Collect all the Storybook Pages
+Tip0 = I love mountains, don't you? All those scenic vertical drops!
+
+[Hat_SnatcherContract_ChallengeRoad]
+Title = Challenge Road

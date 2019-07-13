@@ -1,0 +1,16 @@
+[booths]
+ticket_booth0 = Want a Metro Ticket? 
+sold_out0 = Thanks for buying!
+
+[helpdesk]
+help_desk0 = Hello! Do you need a Metro Guide? If you're REALLY lost, it'll show you where to go!
+help_desk1 = [name]Accessibility Option[/name][br]The Metro is a complex, open space, that can be tough to navigate! If you're not interested in exploring and want some help finding your objective, these guidelines will show you a clear path to follow instead. If you want to focus on exploring again, you can also turn them off.
+help_desk2 = Do you need assistance?
+help_desk3 = So, what do you say? Do you need a guide?
+guide_bought = Would you like Guidelines on or off?
+guide_enable = Help me find the way!
+guide_disable = I want to explore, actually!
+guide_empty = We're uh, all sold out. Sorry!
+
+helpyes = Yes, I want a guide!
+helpno = No, I want to explore!
