@@ -1,84 +1,84 @@
 [levels]
-Chapter1_MafiaTown = Mafia Town
-Act_1_1 = Welcome to Mafia Town
-Act_1_2 = Barrel Battle
-Act_1_3 = She Came from Outer Space
-Act_1_4 = Down with the Mafia!
-Act_1_5 = Cheating the Race
-Act_1_6 = Heating up Mafia Town
-Act_1_7 = The Golden Vault
-Location_MafiaTown = Mafia Town
-Location_MafiaHQ = Mafia HQ
+Chapter1_MafiaTown = Mafya Kasabası
+Act_1_1 = Mafya Kasabasına hoş geldin
+Act_1_2 = Varil Savaşı
+Act_1_3 = O uzaydan geldi
+Act_1_4 = Down with the Mafia! (Mafya ile aşağıya!, Mafya ile düşüş! etc.)
+Act_1_5 = Cheating the Race (Yarışı Bozmak - Yarışa Hile Bulaştırmak - Yarışı Kirletmek)
+Act_1_6 = Mafya Şehri kızışıyor
+Act_1_7 = Altın Kasa
+Location_MafiaTown = Mafya Şehri
+Location_MafiaHQ = Mafya Merkezi (Mafya Genel Merkezi)
 
-Chapter1_Bonus_Secret_Sewer = Sewers
+Chapter1_Bonus_Secret_Sewer = Lağımlar(?)
 Chapter1_Bonus_Secret_Bazaar = Bazaar
-Chapter1_Bonus_Cave_Intro = Mafia of Cooks
-Chapter1_Bonus_Cave_Raccoon = Sleepy Subcon
+Chapter1_Bonus_Cave_Intro = Aşçıların Mafyası
+Chapter1_Bonus_Cave_Raccoon = Sleepy Subcon (Uykulu ?)
 
 
-Chapter2_Subcon = Subcon Forest
-Act_2_1 = Contractual Obligations
-Act_2_2 = The Subcon Well
-Act_2_3 = Toilet of Doom
-Act_2_4 = Queen Vanessa's Manor
-Act_2_5 = Mail Delivery Service
-Act_2_6 = Fire Spirits' Big Ritual
-Act_2_7 = Your Contract Has Expired
-Location_Subcon = Subcon Forest
+Chapter2_Subcon = Subcon Forest (Subcon Ormanı ?)
+Act_2_1 = Sözleşme Yükümlülükleri
+Act_2_2 = The Subcon Well (? Kuyusu)
+Act_2_3 = Toilet of Doom (Ölümün Makyajı) (?)
+Act_2_4 = Kraliçe Vanessa'nın Malikanesi
+Act_2_5 = Posta Teslim Servisi
+Act_2_6 = Ateş Ruhlarının Büyük Ritüeli
+Act_2_7 = Kontratınızın Süresi Doldu
+Location_Subcon = Subcon Forest 
 Location_SubconCave = Subcon Cave
-Location_VanessaManor = Vanessa's Manor
-Location_SubconVillage = Subcon Village
+Location_VanessaManor = Vanessa'nın Malikanesi
+Location_SubconVillage = Subcon Village (Subcon Köyü)
 
 Chapter2_Bonus_Vanessa = Village
-Chapter2_Bonus_Cave = Pipe
+Chapter2_Bonus_Cave = Pipo
 
-Chapter3_Trainwreck = Battle of the Birds
-Act_3_1 = Dead Bird Studio
-Act_3_2 = Murder on the Owl Express
-Act_3_3 = Picture Perfect
-Act_3_4 = Train Rush
-Act_3_5 = The Big Parade
-Act_3_6 = Award Ceremony
-Location_ScienceExpress = The Owl Express
-Location_Moon = The Moon
-TimeRift_Water_TWreck_Panels = The Owl Express
-TimeRift_Water_TWreck_Parade = The Moon
-TimeRift_Cave_TWreck_Basement = Dead Bird Studio
+Chapter3_Trainwreck = Kuşların Savaşı
+Act_3_1 = Ölü Kuş Stüdyosu
+Act_3_2 = Baykuş Ekspresinde Cinayet
+Act_3_3 = Mükemmel
+Act_3_4 = Train Rush (Tren Telaşı)
+Act_3_5 = Büyük Geçit Töreni
+Act_3_6 = Ödül Seramonisi (Ödül Töreni)
+Location_ScienceExpress = Baykuş Ekspresi
+Location_Moon = Ay
+TimeRift_Water_TWreck_Panels = Baykuş Ekspresi
+TimeRift_Water_TWreck_Parade = Ay
+TimeRift_Cave_TWreck_Basement = Ölü Kuş Stüdyosu
 
-Chapter4_Sand = Alpine Skyline
-alpine_finale = The Illness Has Spread
-Chapter4_Bonus_Cats = Curly Tail Trail
-TimeRift_Water_Alp_Goats = Twilight Bell
-TimeRift_Cave_Alps = Alpine Skyline
+Chapter4_Sand = Alpine Skyline (?)
+alpine_finale = Hastalık Yayıldı
+Chapter4_Bonus_Cats = Kıvırcık Kuyruk Patikası
+TimeRift_Water_Alp_Goats = Alacakaranlık Çanı
+TimeRift_Cave_Alps = Alpine Skyline (?)
 
-Chapter5_Finale = Time's End
-act_5_1 = The Finale
+Chapter5_Finale = Zamanın Sonu
+act_5_1 = Final
 
-Chapter6_Cruise = The Arctic Cruise
-Cruise_Act1 = Bon Voyage!
-Cruise_Act2 = Ship Shape
-Cruise_Act3 = Rock the Boat
-TimeRift_Cave_Cruise = Deep Sea
-TimeRift_Water_Cruise_Slide = Balcony
+Chapter6_Cruise = Kutup Gezisi
+Cruise_Act1 = İyi Yolculuklar!
+Cruise_Act2 = Ship Shape (galiba bir deyim)
+Cruise_Act3 = Kayığı Salla
+TimeRift_Cave_Cruise = Derin Deniz
+TimeRift_Water_Cruise_Slide = Balcon
 
-Spaceship_WaterRift_Gallery = The Gallery
-Spaceship_WaterRift_MailRoom = The Lab
-TimeRift_Cave_Tour = Tour
+Spaceship_WaterRift_Gallery = Galeri
+Spaceship_WaterRift_MailRoom = Labratuar
+TimeRift_Cave_Tour = Tur (gezi)
 
-Location_DreamWorld_Water = Time Rift - Blue
-Location_DreamWorld_Cave = Time Rift - Purple
-Location_Spaceship = The Spaceship
-Location_Bookstore = Time's End
+Location_DreamWorld_Water = Time Rift - Blue (Zaman Yarığı - Mavi)
+Location_DreamWorld_Cave = Time Rift - Purple (Zaman Yarığı - Mor)
+Location_Spaceship = Uzaygemisi
+Location_Bookstore = Zamanın Sonu
 
-FreeRoam = Free Roam
-TimeRift = Time Rift
-DeathWish = Death Wish
-NiceWish = Nice Wish
-Community = Community Map
+FreeRoam = Ücretsiz Gezinti (?)
+TimeRift = Zaman Yarığı
+DeathWish = Son Dilek 
+NiceWish = Güzel Dilek 
+Community = Topluluk Haritası
 
-TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio
-TimeRift_Cave_TwilightTravels = Twilight Travels
-TimeRift_Cave_MountainRift = The Mountain Rift
+TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio (?)
+TimeRift_Cave_TwilightTravels = Alacakaranlık Gezileri
+TimeRift_Cave_MountainRift = Dağ Yarığı
 
 secretlevel_beta_space = Beta Hero's Challenge
 
