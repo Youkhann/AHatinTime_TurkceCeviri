@@ -1,18 +1,18 @@
 [ghostparty]
-PlayerJoin = [name][playername][/name] has joined the online party!
-PlayerLeave = [name][playername][/name] has left the online party...
-EnterChapter = [name][playername][/name] entered [hint][actname][/hint]
-TimePieceGet = [name][playername][/name] collected the [icon:TimePiece] for [hint][actname][/hint], congratulations!
-PlayerConnectionFailed = Unable to connect to [name][playername][/name]. Check your router's NAT settings.
-PlayerPaused = Paused
+PlayerJoin = [name][playername][/name] gruba katıldı!
+PlayerLeave = [name][playername][/name] online grubu terk etti... (veya terk etti)
+EnterChapter = [name][playername][/name] katıldı (veya giriş yaptı) [hint][actname][/hint]
+TimePieceGet = [name][playername][/name] [icon:TimePiece] eşyasını(?) [hint][actname][/hint] için topladı, tebrikler!
+PlayerConnectionFailed = [name][playername][/name] kişisine bağlanılamıyor. Check your router's NAT settings.
+PlayerPaused = Duraklatıldı
 
 [lobby]
-OnlinePrompt = Online Functionality
-LobbyPrompt = Party Name
-OnlineInfo = This will allow you to see and interact with other players, including friends and random visitors.
+OnlinePrompt = Online İşlevsellik
+LobbyPrompt = Grup İsmi
+OnlineInfo = Bu diğer oyuncuları görmenizi ve onlarla etkileşime geçmenizi sağlayacaktır, buna arkadaşlarınız ve rastgele oyuncular da dahil.
 PublicInfo = If entered, you will only see other players who are in this party.[br]If blank, you'll only see occasional random guest visitors.[br]Random guest visitors will not be able to affect your game in any way.
 
-Tutorial0 = Welcome to [wave][hint]Online Party[/hint][/wave]! Collapse dimensions together and see your friends!
+Tutorial0 = Oniline gruba [wave][hint]hoş geldin[/hint][/wave]! Collapse dimensions together and see your friends!
 Tutorial1 = Turn it on to journey alongside players from other worlds!
 Tutorial2 = Or enter a party name to just play with your friends!
 
@@ -24,18 +24,18 @@ JoinPrompt = Hold to join
 WaitingToStart = Waiting for other players...
 
 [scoreboard]
-NoConnect = Unable to connect
-Connecting = Connecting...
-MapHub = In Spaceship
+NoConnect = Bağlanılamıyor
+Connecting = Bağlanılıyor...
+MapHub = Uzay gemisinde
 MapTitle = On Titlescreen
 MapGeneric = In another act
 MapSpecific = In [actname]
 MapJoin = Heading into [actname]
-HiddenPlayer1 = You
-HiddenPlayer2 = Also You
-Scoreboard = Scoreboard
-SpectatorMode = Spectate
-Scoreboard_Continue = Continue
+HiddenPlayer1 = Sen
+HiddenPlayer2 = Ayrıca sen de
+Scoreboard = Skor tablosu
+SpectatorMode = İzle
+Scoreboard_Continue = Devam et
 
 [levelobjects]
 VaultCode = [name][playername][/name] collected a golden vault code!
@@ -44,12 +44,12 @@ MurderClue = [name][playername][/name] is one clue closer to solving the murder!
 
 [emotes]
 PingName = Ping
-OverHereName = Over here!
-HiName = Hi!
+OverHereName = Buraya!
+HiName = Merhaba!
 ByeName = Bye!
-WatchOutName = Watch out!
-NopeName = Nope!
-ThanksName = Thanks!
+WatchOutName = Dikkat et!
+NopeName = Hayır!
+ThanksName = Teşekkürler!
 BoopName = Boop!
 PeckName = Peck!
-SorryName = Sorry!
+SorryName = Üzgünüm!
